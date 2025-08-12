@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "67c8051a63da3885d608ea87"
+  },
+  "username": "Meet",
+  "email": "meet105@gamil.com",
+  "mobile_number": "8401209283",
+  "password": "$2y$10$OPMeiUfmfeRsRtHq46QRLOw3VTIVFMl4LTeHawsWeGaQENFzEeKH2"
+},
+{
+  "_id": {
+    "$oid": "67de60be5cdd2d202601f61a"
+  },
+  "username": "Mihir",
+  "email": "mihir@gmail.com",
+  "mobile_number": "6351083404",
+  "password": "$2y$10$C8kipWvrqw5/l7cKX.v1T.yk1QeWhQuMofUFckK8STcEbNwRd.lYC"
+}]
